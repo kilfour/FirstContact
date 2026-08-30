@@ -7,7 +7,7 @@ Schrijf met xUnit en [NSubstitute](https://nsubstitute.github.io/) een volledige
 De productiecode is klaar. Het is jouw taak om alle functionaliteit en elke
 betekenisvolle interactie tussen `ContactService` en `IContactRepository` te
 testen. Schrijf geen concrete implementatie van de repository, maar vervang de
-repository in elke test door een mock.
+repository in elke test een *substitute*.
 
 ## Wat moet je testen?
 
