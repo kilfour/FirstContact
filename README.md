@@ -20,7 +20,7 @@ Test minstens de volgende scenario's.
 
 Ga ervan uit dat `IContactRepository.Add` een ID toekent aan het meegegeven
 `Contact` voordat de methode terugkeert. Bij het testen van de response moet je
-mock dat gedrag nabootsen.
+*substitute* dat gedrag nabootsen.
 
 ### `GetAll`
 
